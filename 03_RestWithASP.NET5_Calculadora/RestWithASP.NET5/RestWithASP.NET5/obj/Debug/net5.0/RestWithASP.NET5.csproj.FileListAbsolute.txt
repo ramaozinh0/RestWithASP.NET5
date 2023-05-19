@@ -25,3 +25,13 @@ D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWi
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.pdb
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.genruntimeconfig.cache
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\ref\RestWithASP.NET5.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\MySqlConnector.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.csproj.CopyComplete
