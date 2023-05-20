@@ -7,13 +7,13 @@ using System.Net;
 using System.Reflection;
 using System.Threading;
 
-namespace RestWithASP.NET5.Services.Implementations
+namespace RestWithASP.NET5.Repository.Implementations
 {
-    public class PersonServiceImplementation : IPersonService
+    public class PersonRepositoryImplementation : IPersonRepository
     {
         private MySqlContext _context;
 
-        public PersonServiceImplementation(MySqlContext context) 
+        public PersonRepositoryImplementation(MySqlContext context) 
         {
             _context = context;
         }
@@ -88,7 +88,7 @@ namespace RestWithASP.NET5.Services.Implementations
             return person;
         }
 
-        private bool Exists(long id)
+        public bool Exists(long id)
         {
             return _context.Persons.Any(p => p.Id == id);
         }

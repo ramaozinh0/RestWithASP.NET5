@@ -35,3 +35,5 @@ D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWi
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.csproj.CopyComplete
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.MvcApplicationPartsAssemblyInfo.cs
