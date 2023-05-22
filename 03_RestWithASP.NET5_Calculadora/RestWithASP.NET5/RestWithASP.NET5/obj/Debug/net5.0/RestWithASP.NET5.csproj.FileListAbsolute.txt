@@ -37,3 +37,15 @@ D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWi
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.csproj.CopyComplete
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Evolve.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Code\RestWithASP.NET5\RestWithASP.NET5\03_RestWithASP.NET5_Calculadora\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll

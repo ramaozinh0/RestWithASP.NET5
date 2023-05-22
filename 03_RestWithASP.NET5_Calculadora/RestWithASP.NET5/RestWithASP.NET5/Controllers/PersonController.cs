@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using RestWithASP.NET5.Business;
+using RestWithASP.NET5.Data.Converter.VO;
 using RestWithASP.NET5.Model;
 
 namespace RestWithASP.NET5.Controllers
@@ -35,14 +36,14 @@ namespace RestWithASP.NET5.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] Person person)
+        public IActionResult Post([FromBody] PersonVO person)
         {
             if (person == null) return BadRequest();
             return Ok(_personBusiness.Create(person));
         }
 
         [HttpPut]
-        public IActionResult Put([FromBody] Person person)
+        public IActionResult Put([FromBody] PersonVO person)
         {
             if (person == null) return BadRequest();
             return Ok(_personBusiness.Update(person));
