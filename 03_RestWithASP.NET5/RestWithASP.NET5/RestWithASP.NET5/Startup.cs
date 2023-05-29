@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Rewrite;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.OpenApi.Models;
 using RestWithASP.NET5.Business;
 using RestWithASP.NET5.Business.Implementations;
 using RestWithASP.NET5.Hypermedia.Enricher;
@@ -53,6 +55,20 @@ namespace RestWithASP.NET5
             services.AddSingleton(filterOptions);
             //Versioning API
             services.AddApiVersioning();
+            services.AddSwaggerGen(c => {
+                c.SwaggerDoc("v1",
+                new OpenApiInfo
+                {
+                    Title = "Rest Api with ASP.NET5",
+                    Version = "v1",
+                    Description = "Api RESTFul developed",
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Ramon Alves",
+                        Url = new Uri("https://github.com/ramaozinh0")
+                    }
+                });
+            });
 
             //Dependency Injection
             services.AddScoped<IPersonBusiness, PersonBusinessImplementation>();
@@ -73,6 +89,16 @@ namespace RestWithASP.NET5
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Api RESTFul developed");
+            });
+
+            var option = new RewriteOptions();
+            option.AddRedirect("^$","swagger");
+            app.UseRewriter(option);
 
             app.UseAuthorization();
 
