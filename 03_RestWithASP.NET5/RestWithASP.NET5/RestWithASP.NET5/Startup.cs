@@ -39,6 +39,12 @@ namespace RestWithASP.NET5
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddCors(options => options.AddDefaultPolicy(builder =>
+            {
+                builder.AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+            }));
             services.AddControllers();
 
             var connection = Configuration["MySQLConnection:MySQLConnectionString"];
@@ -89,6 +95,8 @@ namespace RestWithASP.NET5
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors();
 
             app.UseSwagger();
             app.UseSwaggerUI(c =>
